@@ -62,7 +62,7 @@ int main(){
 
     Stack pilha(5);
 
-    int ans = -50000;
+    int ans;
     while(true){
         cout << "insert - > 1, remove -> 2, consult - > 3, end - > -1";
         cout << "\n";
