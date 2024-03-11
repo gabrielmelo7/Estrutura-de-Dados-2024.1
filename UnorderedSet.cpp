@@ -109,6 +109,7 @@ int main(){
         }
         else{
             cout << "Stop it, get some help\n";
+            break;
         }
     }
 
